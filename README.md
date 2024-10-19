@@ -32,10 +32,6 @@ Os dados estão disponíveis [neste link direto](https://www.dropbox.com/s/z8nw6
 ## Resultados
 
 - **Acurácia do Modelo**: 96.49%
-- **Métricas Adicionais**:
-  - Precisão: [valores da precisão]
-  - Recall: [valores do recall]
-  - F1-Score: [valores do f1-score]
 
 A matriz de confusão revelou que o modelo teve um bom desempenho em ambas as classes, lidando bem com os tumores benignos e malignos.
 
