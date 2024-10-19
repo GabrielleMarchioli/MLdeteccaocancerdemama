@@ -2,6 +2,8 @@
 
 A utilização de Machine Learning para a detecção do câncer de mama vem crescendo, contribuindo para diagnósticos mais rápidos e precisos. Este projeto visa desenvolver um modelo de Machine Learning capaz de classificar tumores como benignos ou malignos utilizando o conjunto de dados Wisconsin.
 
+![Outubro Rosa](https://www.locomotiva.com.br/wp-content/uploads/2022/09/01-Arte-Banner-outubro-rosa-02.png)
+
 ## Contexto
 
 De acordo com a Sociedade Brasileira de Mastologia, uma em cada 12 mulheres terá um tumor nas mamas até os 90 anos. O câncer de mama é a principal causa de morte entre as mulheres em diversos países. A detecção precoce é fundamental, pois quanto mais cedo o câncer é identificado, maiores são as chances de sucesso no tratamento. 
